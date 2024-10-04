@@ -26,9 +26,19 @@
     </li>
     <li>
       <h4>Front-end Web Development</h4>
+      <!-- TypeScript -->
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+      <!-- ReactJS -->
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+      <!-- Next.JS -->
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS" />&nbsp;
+      <!-- CSS -->
+      <!-- Bootstrap CSS -->
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
+      <!-- Ant Design CSS -->
       <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design"/>&nbsp;
+      <!-- TailwindCSS -->
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
     </li>
     <li>
       <h4>Back-end Web Development</h4>
@@ -49,7 +59,7 @@
     </li>
     <li>
       <h4>Data Visualization</h4>
-      <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />&nbsp;
     </li>
     <li>
       <h4>ML/DL (Machine Learning/Deep Learning)</h4>
@@ -81,7 +91,7 @@
     </li>
     <li>
       <h4>IDEs</h4>
-      <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
+      <img src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
     </li>
   </ul>
 </p>
@@ -93,12 +103,13 @@
   <ul>
     <li>
       <h4>Front-end Web Development</h4>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.JS" />&nbsp;
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.JS" />&nbsp;
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="TailwindCSS" />&nbsp;
       <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />&nbsp;
+      <!-- AngularJS -->
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="AngularJS"/>&nbsp;
+      <!-- RxJS -->
+      <img src="https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/> &nbsp;
     </li>
     <li>
       <h4>Back-end Web Development</h4>
